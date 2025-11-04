@@ -9,6 +9,8 @@ CREATE TABLE tbl_filme (
 	capa VARCHAR(200) NOT NULL
 );
 
+
+
 	INSERT INTO	tbl_filme(nome, sinopse, data_lancamento, duracao, orcamento, trailer, capa)
 		VALUES	("Scarface",
 				"Um criminoso cubano exilado (Al Pacino) vai para Miami e em pouco tempo 
